@@ -1,4 +1,10 @@
 # TissueDetection2024
+<a href="https://universe.roboflow.com/zshar/segmentation-tissue-detectionpt3">
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+</a>
+<a href="https://universe.roboflow.com/zshar/segmentation-tissue-detectionpt3/model/">
+    <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
+</a>
 ## Greetings
 Hello! My name is Zain Shariff, I am a freshman at Curtis Junior High School, and I am deeply excited to showcase my research that I have been working for a year. This year's project consists of the development of an image machine learning model that detects tissue present in ultrasound scans, and detects and trace contours of that tissue.
 
