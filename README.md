@@ -2,9 +2,6 @@
 <a href="https://universe.roboflow.com/zshar/segmentation-tissue-detectionpt3">
     <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
 </a>
-<a href="https://universe.roboflow.com/zshar/segmentation-tissue-detectionpt3/model/">
-    <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
-</a>
 
 
 ## Greetings
