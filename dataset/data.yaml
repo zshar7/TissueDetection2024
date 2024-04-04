@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['tissue']
+
+roboflow:
+  workspace: zshar
+  project: segmentation-tissue-detectionpt3
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zshar/segmentation-tissue-detectionpt3/dataset/1
