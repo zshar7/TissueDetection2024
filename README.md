@@ -29,7 +29,7 @@ I have gone more in-depth into the process in my paper.
 
 ## Where do I find what?
 To find the images used for the dataset go into the dataset folder. The Roboflow Dataset can be found [here](https://universe.roboflow.com/zshar/segmentation-tissue-detectionpt3). For the parser code in python go to the the python file named "splicer.py". The model can be found as "best.pt".
-My paper can be found in "paper.pdf" and my online slideshow can be found [here](https://docs.google.com/presentation/d/1RDuuYSYptCqnq6JYPsUbXoJ0kYnZSjMX2GxqWrOv4VA/edit?usp=sharing). If you would like to look at poster again in-depth, it can be found in "poster.pdf"
+My paper can be found in "paper.pdf".
 
 ## License
 [Tissue Detection in Ultrasound Images Using Real-Time Image Segmentation Model](https://github.com/zshariff6506/TissueDetection2024) © 2024 by Zain Shariff is licensed under CC BY-NC-SA 4.0
