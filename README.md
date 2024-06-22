@@ -4,21 +4,21 @@
 </a>
 
 ## Abstract
-Ultrasounds are utilized in the medical field to visualize organ structures in the body. A physician
-viewing ultrasound scans has to identify the contours of the structures and differences in the brightness
-and texture of the tissue to further make interpretation of the image. YOLOv8 is a program that
-can be used in a real-time image segmentation model, which when trained, can trace contours of
-an object in an image. This study focuses on the development of a real-time segmentation model to
-identify tissue in ultrasound images. Ultrasound images were obtained and spliced into frames, which
-were manually annotated in Roboflow. Command Line Interface was used to train an extra large
-segmentation model with YOLO. Training was conducted in three sessions, and showed improvement
-of the model throughout training with lower loss, and increase in metrics. The best model was
-obtained at the 86th epoch. Its mAP50-95 rating was 0.85115 and F1 Score was measured at 0.91 at
-0.521 confidence. The model was precisely able to identify tissue in the 60 test images assessment
-done manually. The model predicted images in 300 ms or less reliably. This study developed a
-model that can be utilized in real-time clinical practice such as the automated demarcation of tissue
-with three dimensional modeling scans, which was previously manually done. The application of
-knowledge in ultrasound scans of in-vivo organ structures would be helpful in clinical practice.
+Medical ultrasounds visualize internal structures, like organs. A physician interpret-
+ing an ultrasound image must identify structure contours, brightness, and texture
+differences. YOLOv8 is a state of the art image segmentation model that indicates
+the contours of objects in an image. This study develops a real-time segmentation
+model that identifies tissue in ultrasound images. Ultrasound images were obtained,
+spliced into frames, and annotated in Roboflow. The Ultralytics library and Com-
+mand Line Interface trained an image segmentation model. After 111 epochs of
+training, the model’s performance increased. The 86th epoch produced the best
+model. It had a 0.85115 mAP50-95 rating and 0.91 F1 Score at 0.521 confidence.
+The model precisely identifies tissue in a 60 test image assessment. The model
+reliably predicted images in 300 ms or less. This study developed a model that can
+be utilized in real-time clinical practice. One application is automated demarcation
+of tissue with three dimensional modeling scans. Future studies integrating in-vivo
+organ structure ultrasound scans into the training dataset would develop a model
+competent for clinical practice.
 
 ## Greetings
 Hello! My name is Zain Shariff, I am a freshman at Curtis Junior High School, and I am deeply excited to showcase my research that I have been working for a year. This year's project consists of the development of an image machine learning model that detects tissue present in ultrasound scans, and detects and trace contours of that tissue.
